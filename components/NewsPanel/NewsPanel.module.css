@@ -1,0 +1,9 @@
+.nv_pan {
+  background: url("../../public/gallery_1.png");
+  width: 85%;
+  height: 1200px;
+  float: right;
+  -moz-transition: background 5s ease;
+  -webkit-transition: background 2s ease;
+  transition: background 2s ease;
+}

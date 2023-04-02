@@ -1,0 +1,12 @@
+.pan {
+  color: black;
+}
+
+.panel {
+  height: 1200px;
+  width: 15%;
+  position: absolute;
+  top: 158px;
+  background-color: var(--panel-color);
+  z-index: 5;
+}

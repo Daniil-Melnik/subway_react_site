@@ -1,0 +1,32 @@
+.card {
+  width: 79%;
+  position: absolute;
+  right: 3%;
+  height: 400px;
+  background-color: var(--card-color);
+  margin-top: 5%;
+  opacity: 0.85;
+  border-radius: 20px;
+}
+
+.hr {
+  width: 80%;
+  size: 1%;
+  color: var(--head-color);
+}
+
+.title {
+  color: var(--head-color);
+  text-align: center;
+  font-family: "Jura";
+}
+
+.txt {
+  color: var(--head-color);
+  font-family: "Jura";
+  font-size: 1.1em;
+  font-weight: lighter;
+  margin-left: 9px;
+  margin-right: 5px;
+  text-align: justify;
+}
